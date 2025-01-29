@@ -1,27 +1,29 @@
 # B.eata
 
-1. 프로덕트 및 프로젝트 개요
-1-1. 주제
+## 1. 프로덕트 및 프로젝트 개요
+### 1-1. 주제
 💡 **식품 트렌드 인텔리전스(Food Trend Intelligence)** 식품 인기검색어 트렌드를 기반으로 상품 정보 및 상품평 분석 결과를 제공하는 데이터 프로덕트 개발
-1-2. 프로젝트 진행(24.06.03 → 24.06.27)
+### 1-2. 프로젝트 진행(24.06.03 → 24.06.27)
 💡 **Agile/Scrum Team** 매일 09:00 데일리스크럼 진행 / 개인별 포커스타임 지정해 한달간 진행
 각 스프린트 종료 시 회고 및 미팅, 시작 미팅 진행
 
-1-3. 활용한 라이브러리 등 기술적 요소
+### 1-3. 활용한 라이브러리 등 기술적 요소
 ✔ numpy	✔ selenium	✔ figma	✔ Tableau Public
 ✔ pandas	✔ BeautifulSoup	✔ AWS	✔ Hugging Face
 ✔ matplotlib	✔ chardet	✔ Amplify Studio	✔ KcELECTRA
 ✔ seaborn	✔ collections	✔ sklearn	✔ BERT
 ✔ konlpy	✔ wordcloud	✔ pytorch	✔ SQL
 ✔ transformer	✔ stopwords	✔ dynamoDB	✔ undetected_chromedriver
-2. MVP(Minimum Viable Product)
-2-1. 데이터 및 사용자 플로우 서비스 기획
-2-2. UI/UX 기획 및 디자인
-2-3. 프로토타입 웹사이트
-2-4. 프로젝트 시연영상(QR)
-image
+## 2. MVP(Minimum Viable Product)
+### 2-1. 데이터 및 사용자 플로우 서비스 기획
+### 2-2. UI/UX 기획 및 디자인
+### 2-3. 프로토타입 웹사이트
+### 2-4. 프로젝트 시연영상(QR)
 
-3. 팀원 소개 및 역할
+![image](https://github.com/user-attachments/assets/e636e451-be4d-4365-a8e3-6e18d063ce21)
+
+
+## 3. 팀원 소개 및 역할
 💛 **남진아**
 Product Owner
 서비스 기획 및 개발
@@ -60,4 +62,4 @@ UI/UX 기획 리드
 상품정보비교 인사이트 도출
 자료 취합 및 문서화
 발표자료 제작
-4. 담당업무 - 프로젝트 수행 절차 및 방법
+## 4. 담당업무 - 프로젝트 수행 절차 및 방법
